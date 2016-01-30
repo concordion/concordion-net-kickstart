@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-using Concordion.Integration;
+using Concordion.NET.Integration;
 using NUnit.Framework;
 
 // General Information about an assembly is controlled through the following 
@@ -10,9 +10,9 @@ using NUnit.Framework;
 [assembly: AssemblyTitle("Kickstart.Spec")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyCompany("concordion.org")]
 [assembly: AssemblyProduct("Kickstart.Spec")]
-[assembly: AssemblyCopyright("Copyright © HP 2013")]
+[assembly: AssemblyCopyright("Copyright © concordion.org 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -37,5 +37,4 @@ using NUnit.Framework;
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
-[assembly: ConcordionAssembly]
 [assembly: RequiredAddin("ConcordionNUnitAddin")]

@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Kickstart")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyCompany("concordion.org")]
 [assembly: AssemblyProduct("Kickstart")]
-[assembly: AssemblyCopyright("Copyright © HP 2013")]
+[assembly: AssemblyCopyright("Copyright © concordion.org 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
